@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **sebcif/sebcif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Sebastian Cifuentes, a Machine Learning Engineer from Chile with a background in both software and machine learning.
+
+I'm a Computer Engineer with experience in research and industry, focused on Natural Language Processing (NLP). Over the years, I've worked in different roles—from data science and IoT to software development and, more recently, the design and development of machine learning systems.
+
+My main interest is in Large Language Models (LLMs) and how we can use them to build scalable and reliable systems.
+
+In my free time, I enjoy learning new things and staying up to date with the latest developments in NLP.
+
+Feel free to send me an email if you’d like to connect.
