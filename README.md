@@ -20,4 +20,4 @@ I'm a Computer Engineer with experience in research and industry, focused on Nat
 
 My main interest is in Large Language Models (LLMs) and how we can use them to build scalable and reliable systems.
 
-Feel free to send me an email if you’d like to connect.
+I really enjoy learning new things and staying up to date with the latest developments in NLP. So, if you have an idea, a problem or just wanna chat feel free to send me an email!
